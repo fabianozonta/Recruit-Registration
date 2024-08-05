@@ -8,11 +8,5 @@ This JavaScript application is designed for registering recruits by collecting t
 - **Calculate Age:** Automatically calculates the recruit's age based on the current year and the provided year of birth.
 - **Display Confirmation:** Shows a confirmation alert with all the collected information and the calculated age.
 
-## How to Run
 
-To run this JavaScript exercise, follow these steps:
-
-1. **Clone the Repository:**
-   ```sh
-   git clone https://github.com/your-username/repository-name.git
 
